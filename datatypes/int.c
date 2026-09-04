@@ -6,7 +6,7 @@
 // lets learn how to take and give input and output in C programming Language.
 
 // gcc file name -o file name without.c
-// \filename.exe
+// .\filename.exe
 # include <stdio.h>
 int main(){
   int a ;
