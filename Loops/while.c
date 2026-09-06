@@ -1,4 +1,5 @@
 // lets do while loop with an simple example
+// it will check condition then it will run 
 #include <stdio.h>
 int main()
 {
